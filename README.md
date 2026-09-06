@@ -7,7 +7,7 @@ CareerXpert is a full-stack AI-driven career mentoring platform built for the **
 ## 📁 Project Structure
 
 ```
-HCLTech_Hackathon/
+
 ├── AiPoweredCareerMentor/   # Spring Boot backend
 └── CareerXpert_Frontend/    # React + Vite + TypeScript frontend
 ```
